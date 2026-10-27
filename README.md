@@ -6,9 +6,9 @@ Prof. José Romualdo · Checkpoint 3 · 27/10/2026 · Atividade em dupla · Dura
 ## Dupla
 
 | Nome | RM |
-|---|---|
-| | |
-| | |
+|-----------|--------|
+|Alice Souza Galdino da Silva | 561164|
+|Polianna Albuquerque Lima | 561078|
 
 ## Contexto
 
